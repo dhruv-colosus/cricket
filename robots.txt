@@ -1,3 +1,4 @@
-User-agent: Bingbot
-Disallow: /example-subfolder/blocked-page.html
-Sitemap: http://www.mydomain.com/sitemap.xml
+User-Agent: *
+Disallow: /sitemap.html
+Disallow: /*?*
+Disallow: /*?comments=all
